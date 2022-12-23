@@ -1,2 +1,2 @@
 # aws-basic:
-## Types of clud computing:
+### Types of clud computing:
