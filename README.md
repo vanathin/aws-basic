@@ -1,6 +1,6 @@
 # aws-basic:
 ### * Types of clud computing: 9th slide
-  ![Uploading image.png…]
+
   
   
 
